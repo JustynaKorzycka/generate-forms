@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #dedede;
+}
+
+.container {
+  padding: 40px 0 40px;
+  min-height: 100vh;
+}
+
+.row {
+  margin: 20px 0;
+}
+
+.page-title {
+  text-align: center;
+}
+
+.generate-btn {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.alert {
+  max-width: 400px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.forms-container {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}

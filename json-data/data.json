@@ -1,0 +1,60 @@
+[{
+    "formName": "Add new user",
+    "fields": [{
+        "id": "user-name",
+        "name": "First name",
+        "type": "text"
+      },
+      {
+        "id": "user-second-name",
+        "name": "Second name",
+        "type": "text"
+      },
+      {
+        "id": "user-email",
+        "name": "Email",
+        "type": "email"
+      }
+    ]
+  },
+  {
+    "formName": "Log in",
+    "fields": [{
+        "id": "user-login",
+        "name": "Login",
+        "type": "text"
+      },
+      {
+        "id": "login-password",
+        "name": "Password",
+        "type": "password"
+      }
+    ]
+  },
+  {
+    "formName": "Add post",
+    "fields": [{
+        "id": "post-name",
+        "name": "Post name",
+        "type": "text"
+      },
+      {
+        "id": "post-author",
+        "name": "Author",
+        "type": "text"
+      },
+      {
+        "id": "create-date",
+        "name": "Created date",
+        "type": "datetime-local"
+      },
+      {
+        "id": "post-content",
+        "name": "Post content",
+        "type": "textarea"
+      }
+    ]
+  }
+
+
+]
